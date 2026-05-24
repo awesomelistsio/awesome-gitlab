@@ -97,6 +97,7 @@
 - [Sentry Integration](https://docs.gitlab.com/ee/user/project/integrations/sentry.html) – Error tracking integration.
 - [Datadog Integration](https://docs.gitlab.com/ee/user/project/integrations/datadog.html) – Monitoring and observability.
 - [PagerDuty Integration](https://docs.gitlab.com/ee/user/project/integrations/pagerduty.html) – Incident response and alerting.
+- [PRFlow](https://prflow.dev) – Faster code reviews, thanks to one updating Slack message per GitLab MR with CI/CD status and threaded comments.
 
 ## Project & Product Management
 
