@@ -65,6 +65,7 @@
 - [Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/) – Scan container images for vulnerabilities.
 - [License Compliance](https://docs.gitlab.com/ee/user/compliance/license_compliance/) – Track and enforce open-source licenses.
 - [Secret Detection](https://docs.gitlab.com/ee/user/application_security/secret_detection/) – Detect leaked secrets in repositories.
+- [glsec](https://github.com/glsec/glsec) – Static security scanner for GitLab CI/CD pipelines, with rules mapped to the OWASP Top 10 CI/CD Security Risks.
 
 ## Infrastructure & Cloud
 
