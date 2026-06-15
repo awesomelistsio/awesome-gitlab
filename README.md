@@ -56,6 +56,7 @@
 - [Shell Executor](https://docs.gitlab.com/runner/executors/shell.html) – Execute jobs directly on host machines.
 - [Kubernetes Executor](https://docs.gitlab.com/runner/executors/kubernetes.html) – Run CI jobs as Kubernetes pods.
 - [Autoscaling Runners](https://docs.gitlab.com/runner/configuration/autoscale.html) – Automatically scale runners using cloud providers.
+- [RunMyJob](https://runmyjob.io/) – Cloud runners for GitLab CI and GitHub Actions.
 
 ## DevSecOps & Security
 
