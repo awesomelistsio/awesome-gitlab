@@ -92,6 +92,7 @@
 
 ## Integrations
 
+- [Bubo](https://github.com/mountainowl/bubo) – Self-hosted AI code reviewer for GitLab merge requests that posts evidence-backed inline findings and learns from repository feedback.
 - [Slack Integration](https://docs.gitlab.com/ee/user/project/integrations/slack.html) – Notifications and workflow updates in Slack.
 - [Jira Integration](https://docs.gitlab.com/ee/user/project/integrations/jira.html) – Sync issues and development workflows.
 - [Sentry Integration](https://docs.gitlab.com/ee/user/project/integrations/sentry.html) – Error tracking integration.
