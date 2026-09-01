@@ -89,6 +89,7 @@
 - [Webhooks](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html) – Trigger external systems from GitLab events.
 - [GitLab CLI (glab)](https://gitlab.com/gitlab-org/cli) – Command-line interface for GitLab.
 - [Terraform GitLab Provider](https://registry.terraform.io/providers/gitlabhq/gitlab/latest) – Manage GitLab resources as code.
+- [standup-mr](https://github.com/Jubstaaa/standup-mr) – Standup notes from merge request state, with the failed job's error lines.
 
 ## Integrations
 
